@@ -1,3 +1,3 @@
 # XPS9360
 XPS9360 i5-7200u 
-FOR Opencore MacOS 12.0.1
+for Opencore MacOS 12.0.1
